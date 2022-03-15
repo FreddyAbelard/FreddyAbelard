@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Freddy</h1>
-<h3 align="center">A Back-end Developer from Montreal</h3>
+<h3 align="center">A Back-end Developer from France living in Montreal</h3>
 
 <h3 align="left">Connect with me:<a href="https://www.linkedin.com/in/freddyabelard/">LinkedIn</a></h3>
 <p align="left">
