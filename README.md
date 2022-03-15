@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Freddy</h1>
 <h3 align="center">A Back-end Developer from Montreal</h3>
 
-<h3 align="left">Connect with me:<a href="https://www.linkedin.com/in/freddy-abelard-b3a275171/">LinkedIn</a></h3>
+<h3 align="left">Connect with me:<a href="https://www.linkedin.com/in/freddyabelard/">LinkedIn</a></h3>
 <p align="left">
 </p>
 
